@@ -1,7 +1,12 @@
-import ListGroup from './components/ListGroup.tsx';
+import "./App.css";
 
-function App(){
-  return <div><ListGroup /></div>
+
+function App() {
+  return (
+    <div>
+      <h1>Movie Library</h1>
+    </div>
+  );
 }
 
 export default App;
