@@ -1,5 +1,6 @@
-import { Movie } from "../interfaces/Movie";
 import "./MovieCard.css";
+import { Movie } from "../interfaces/Movie";
+
 interface MovieCardProps {
   movie: Movie;
 }
